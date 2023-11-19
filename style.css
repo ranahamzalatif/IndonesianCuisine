@@ -1,0 +1,180 @@
+
+/* First Page */
+
+.bg_color{
+    background-color: #3d763e;
+    background-size: 100%;
+   
+    
+}
+
+.logo1{
+    margin-left: 20px;
+}
+
+.bg_color2{
+    background-image: linear-gradient(45deg, #3d763e 50%, #80d179);
+    background-size: 100%;
+    padding-right: 0px;
+    margin-right: 0px;
+    height: 700px;
+}
+ @font-face {
+    font-family: 'grand';
+    src: url(font/BerkshireSwash-Regular.ttf);
+ }
+ @font-face {
+    font-family: 'brand';
+    src: url(font/Lunchtype21-Medium-Italic.ttf);
+ }
+
+ .font_size{
+    font-family: 'grand';
+ }
+
+ .bg_image1{
+    background-image: url('images1/backgroundPattern.png') ;
+    background-size: 100%;
+ }
+
+ /* Second Page */
+
+ .font_size2{
+    font-family: 'brand';
+    font-size: 23px;
+ }
+
+ .bg_color3{
+    background-color: #f1cb38;
+    /* margin-top: 0px;
+    padding-top: 0px; */
+    /* padding-left: 0px; */
+    height: 500px;
+ }
+
+ .border_radius{
+    height: 500px;
+    border-top-left-radius: 20rem;
+    border-bottom-left-radius: 20rem ;
+    
+ }
+
+ /* Third Page */
+
+ .bg_color4{
+    background-color: #3d763e;
+    height: 520px;
+    
+    
+ }
+
+ /* Four Page */
+
+ .bg_color5{
+    background-color: #57b04c;
+    padding-left: 0px;
+    height: 240px;
+ }
+
+ .bg_image4{
+    background-image: url('images1/PattrenChef.png');
+
+ }
+
+ .bg_chef{
+   background-color: #3d763e;
+   width: 400px;
+   text-align: center;
+ }
+
+ .bg_color6{
+    background-color: #57b04c;
+    padding-left: 0px;
+    height: 950px;
+
+ }
+
+ .bg_color7{
+    background-color: #3d763e;
+    margin-right: 28px;
+
+ }
+
+ .bg_image5{
+    background-image: url('images1/PattrenChef2.png');
+    padding-top: 20px;
+    height: 80px;
+ }
+
+ /* Five Page */
+
+ .bg_image6{
+    background-image: url('images1/PattrenOrange.png');
+    background-size: 100%;
+    height: 700px;
+    padding-left: 0px;
+ }
+
+ .bg_color8{
+    background-color: #f39916;
+ }
+
+ /* Six Page */
+
+ .bg_color9{
+    background-color:  #3d763e;
+    height: 500px;
+ }
+
+ .bg_image7{
+    background-image: url('images1/PattrenOurMenus.png');
+ }
+
+ /* Seven Page + Eight Page */
+
+ .bg_color10{
+    background-color:  #57b04c;
+    
+ }
+
+ .bg_color11{
+    background-color: #f1cb38;
+    height: 300px;
+    padding-left: 0px;
+ }
+
+ .text_color{
+    color: #3d763e;
+ }
+
+ @font-face {
+    font-family: 'brand1';
+    src: url('font/Articulat\ CF\ Demi\ Bold.ttf');
+ }
+ @font-face {
+    font-family: 'grand1';
+    src: url('font/Fontspring-DEMO-articulatcf-regular-BF64a38d8b1d671.otf');
+ }
+
+ .font_size3{
+    font-family: 'brand1';
+ }
+ .font_size4{
+    font-family: 'grand1';
+ }
+
+ /* Eight Page + Nine Page */
+
+ .bg_color12{
+   background-color: #3d763e;
+   color: #3d763e;
+   
+ }
+
+ /* Ten Page */
+
+ .bg_color13{
+   background-color: #3d763e;
+ }
+
+ 
